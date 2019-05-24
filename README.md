@@ -1,1 +1,2 @@
 # YelpCamp
+### Author: Ray Mao
